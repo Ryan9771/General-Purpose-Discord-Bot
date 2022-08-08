@@ -33,10 +33,8 @@ eight_ball = [
   "Yes",
   "Erm no",
   "Definitely not",
-  "Hell yea",
   "no",
   "lol sure",
-  "I dare you"
 ]
 
 completed_msgs = [
