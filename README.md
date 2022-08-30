@@ -15,3 +15,4 @@ A fun discord bot that I made for my school discord server to bring in some live
 - Ability to add commands from the discord channels using the `&add` command, and will retain these commands even if the script is re-run
 - Ability to clear messages from specific users in a channel
 - Ablity to clear given number of messages
+- And other general commands such as `&8ball` which acts as a virtual 8-ball
